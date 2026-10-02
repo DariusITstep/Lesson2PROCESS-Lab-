@@ -1,0 +1,14 @@
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 10000 | Percent: 15
+Name: PrivatBank | Money: 0 | Percent: 0
+Name: PrivatBank | Money: 10000 | Percent: 0
+Name: PrivatBank | Money: 10000 | Percent: 15

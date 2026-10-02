@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Work\\GIT-PROCESS\\Lesson2PROCESS(Lab)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7167272-0B2F-4395-844F-FFC6CED7CEB3}|Lesson2PROCESS(Lab)\\Lesson2PROCESS(Lab).csproj|x:\\work\\git-process\\lesson2process(lab)\\lesson2process(lab)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7167272-0B2F-4395-844F-FFC6CED7CEB3}|Lesson2PROCESS(Lab)\\Lesson2PROCESS(Lab).csproj|solutionrelative:lesson2process(lab)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-PROCESS\\Lesson2PROCESS(Lab)\\Lesson2PROCESS(Lab)\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2PROCESS(Lab)\\Program.cs",
+              "ToolTip": "X:\\Work\\GIT-PROCESS\\Lesson2PROCESS(Lab)\\Lesson2PROCESS(Lab)\\Program.cs*",
+              "RelativeToolTip": "Lesson2PROCESS(Lab)\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:20:58.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
